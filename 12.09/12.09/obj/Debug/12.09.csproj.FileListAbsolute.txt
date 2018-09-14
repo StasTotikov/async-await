@@ -1,9 +1,0 @@
-D:\Тотиков Стас\ADO.NET\12.09\12.09\bin\Debug\12.09.exe.config
-D:\Тотиков Стас\ADO.NET\12.09\12.09\bin\Debug\12.09.exe
-D:\Тотиков Стас\ADO.NET\12.09\12.09\bin\Debug\12.09.pdb
-D:\Тотиков Стас\ADO.NET\12.09\12.09\obj\Debug\12.09.csprojResolveAssemblyReference.cache
-D:\Тотиков Стас\ADO.NET\12.09\12.09\obj\Debug\_12._09.Form1.resources
-D:\Тотиков Стас\ADO.NET\12.09\12.09\obj\Debug\_12._09.Properties.Resources.resources
-D:\Тотиков Стас\ADO.NET\12.09\12.09\obj\Debug\12.09.csproj.GenerateResource.Cache
-D:\Тотиков Стас\ADO.NET\12.09\12.09\obj\Debug\12.09.exe
-D:\Тотиков Стас\ADO.NET\12.09\12.09\obj\Debug\12.09.pdb
