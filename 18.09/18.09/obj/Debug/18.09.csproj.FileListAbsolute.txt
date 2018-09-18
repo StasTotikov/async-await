@@ -1,0 +1,6 @@
+D:\Тотиков Стас\ADO.NET\18.09\18.09\bin\Debug\18.09.exe.config
+D:\Тотиков Стас\ADO.NET\18.09\18.09\bin\Debug\18.09.exe
+D:\Тотиков Стас\ADO.NET\18.09\18.09\bin\Debug\18.09.pdb
+D:\Тотиков Стас\ADO.NET\18.09\18.09\obj\Debug\18.09.csprojResolveAssemblyReference.cache
+D:\Тотиков Стас\ADO.NET\18.09\18.09\obj\Debug\18.09.exe
+D:\Тотиков Стас\ADO.NET\18.09\18.09\obj\Debug\18.09.pdb
